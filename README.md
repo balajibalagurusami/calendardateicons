@@ -1,0 +1,2 @@
+I was using noiton to organize my week and found the calendar Icon only showed July 17. And I find it confusing, so decided to generate an icon for each of the calendar dates. Free feel to fork this repo and create your own version. 
+Original icon inspired from this link https://icon-sets.iconify.design/emojione/spiral-calendar/ . I removed the spiral binder and simplified by removing the rounded corners and shadows. 
